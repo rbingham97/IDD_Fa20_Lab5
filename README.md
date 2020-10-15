@@ -9,4 +9,4 @@ Since my initial idea was honestly a robotics project, I'm splitting the purely 
 
 I glued the photocell to the base of the robot's gripper arm and wired it up with the other motor cables down to my Arduino UNO with a 10K pulldown resistor just like in Lab 4. The robot's behavior falls into two states: when the photocell senses only darkness, the arm sits straight up and does not dance. As soon as you start shining a light at the head (a la flashing lights at a club or party), the robot plays a jingle on repeat and executes a preprogrammed dance sequence. 
 
-See video of this in action [here]().
+See video of this in action [here](https://youtu.be/P_Yf80T1qOk). This video is of it dancing to music from my speaker because that's way cooler, but the jingle is easy enough with the Arduino PWM pins (like Lab 2). 
