@@ -11,6 +11,6 @@ I glued the photocell to the base of the robot's gripper arm and wired it up wit
 
 Here's a photo of the robot setup, with the photocell peeking out in the middle of the jaws at the top:
 
-![roboPic](/IMG_4533.JPG)
+![roboPic](/IMG_4533.JPG =500x)
 
 See video of this in action [here](https://youtu.be/P_Yf80T1qOk). This video is of it dancing to music from my speaker because that's way cooler, but the jingle is easy enough with the Arduino PWM pins (like Lab 2). 
