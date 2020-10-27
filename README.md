@@ -30,4 +30,4 @@ Here's a photo of the robot setup, with the photocell peeking out in the middle 
 <img src="/IMG_4533.JPG" alt="roboPic" width="300"/>
 
 
-See video of the systme in action [here](https://youtu.be/P_Yf80T1qOk).
+See video of the system in action [here](https://youtu.be/P_Yf80T1qOk).
